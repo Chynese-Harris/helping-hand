@@ -8,7 +8,7 @@ Helping Hand is an app that was designed to do exactly what its name says, lend 
 
 The Entire App:
 
--The name Helping Hand was chosen because that's something everybody needs one in a while. This app was created in order to lift up its users and help them with life's toughest battles.
+-The name Helping Hand was chosen because that's something everybody needs once in a while. This app was created in order to lift up its users and help them with life's toughest battles.
 
 -The logo that can be seen at the top of the page is something simple, but not too plain. The light purple color goes very well with the maroon background and the Superclarendon font makes it not look too boring. 
 
