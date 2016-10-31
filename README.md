@@ -14,7 +14,7 @@ The Entire App:
 
 -The fonts used throughout the app are simple and easy to read. I chose them because I wouldn't want someone to not use my app simply because they just couldn't read it.
 
--I think I chose the perfect colors for my color scheme. The light purple and white compliment the warm maroon and black very well. I didnÕt want something too dark or too light, it needed to be just right.
+-I think I chose the perfect colors for my color scheme. The light purple and white compliment the warm maroon and black very well. I didn't want something too dark or too light, it needed to be just right.
 
 -My code is easy to read and neatly arranged.
 
@@ -41,6 +41,6 @@ Helpful Information:
 
 How I Created My App:
 
-Creating my app was a very simple process I'd like to think. First I created my Quotes Page. I designed it and figured out exactly how I wanted it to look, then I created an array that included every quote that the user could possibly get. I connected my button to the label for the quotes, made sure the quotes were different every time the button was clicked, and I went from there. I created the rest of my pages then created links that connected them all together. I added all of my buttons, text boxes, and labels and made sure that they all worked well. 
+Creating my app was a very simple process I'd like to think. First I created my Quotes Page. I designed it and figured out exactly how I wanted it to look, then I created an array that included every quote that the user could possibly get. I connected my button to the label for the quotes, made sure the quotes were different every time the button was clicked, and I went from there. I created the rest of my pages then created segues that connected them all together. I added all of my buttons, text boxes, and labels and made sure that they all worked well. 
 
 
